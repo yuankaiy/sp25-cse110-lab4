@@ -1,4 +1,4 @@
-1. The name of the new JSON file is `itylots.json`.
+1. The name of the new JSON file is `citylots.json`.
 
 2. The file that initiated the download of the new file is `expose.js`, specifically line 4.
 
